@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-10-07T21:52:02.780Z",
+  "games": [
+    {
+      "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
+      "title": "Fork Knife",
+      "genre": "Battle Royale",
+      "price": "Coming Soon",
+      "description": "Soon...",
+      "coverUrl": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Screenshot%202026-10-05%20202059.png",
+      "featured": true,
+      "deal": false
+    }
+  ],
+  "avatarCategories": [
+    {
+      "id": "fc080b52-b003-44cb-ab1a-5afcfeb54ca3",
+      "name": "XBOX 360",
+      "images": [
+        {
+          "id": "4144a34d-532e-4b65-92ac-edbd9d79c9f2",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Soccer-ball-gamerpic.png"
+        },
+        {
+          "id": "844cd609-df70-4fa4-a195-5cd5a596c7e7",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Smiley-face-gamerpic.png"
+        },
+        {
+          "id": "52f3dd62-cdeb-4828-8288-49cdeb7a811f",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Pirate-gamerpic.png"
+        },
+        {
+          "id": "453813a4-98ef-41b3-967d-b20f25063383",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Pink-hair-girl-gamerpic.png"
+        },
+        {
+          "id": "e31aca06-96fc-4e41-bc7a-67644f20b8b7",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Panda-gamerpic.png"
+        },
+        {
+          "id": "1ab09e3e-bbb8-4e5f-8d36-af2e4f7b96e9",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Orange-black-skull.png"
+        },
+        {
+          "id": "fb7da8d2-8eb4-474e-9771-5c8545edd2a3",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Monkey-gamerpic.png"
+        },
+        {
+          "id": "61ca9237-0b58-4b09-848d-2603bffd2719",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Dragon-gamerpic.png"
+        },
+        {
+          "id": "2ca9481d-f4ca-489a-90f4-8bcdcdc2237b",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Dog-gamerpic.png"
+        },
+        {
+          "id": "464b6198-a3ed-4e14-8b3c-72a46267c3e5",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Bubble-gum-gamerpic.png"
+        },
+        {
+          "id": "8d5d2b2d-4bbe-4e96-8142-8b226d299493",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/Blue-head-gamerpic.png"
+        },
+        {
+          "id": "4f09e1aa-97b3-4cdb-a47f-3c42f240f416",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/360-wave.png"
+        }
+      ]
+    }
+  ]
+}
