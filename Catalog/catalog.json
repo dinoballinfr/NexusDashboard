@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08T04:32:17.862Z",
+  "revision": "2026-10-08T05:39:07.187Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -378,8 +378,34 @@
           "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(74).png"
         }
       ]
+    },
+    {
+      "id": "9ef30eb2-d353-4110-8add-6a87a46ddd7f",
+      "name": "Cars",
+      "images": [
+        {
+          "id": "3999d23c-c54f-4afd-a420-2d53c8434ec0",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/4684-jdm-car.png"
+        }
+      ],
+      "redeemOnly": true
     }
   ],
   "themes": [],
-  "redeemCodes": []
+  "redeemCodes": [
+    {
+      "id": "0a25b897-2865-4a22-b72e-4971b5c937ec",
+      "name": "Cars pfp set",
+      "hash": "654cdb25ca062b73e5cadade28504eafc559f2b126178732e8a844b307a3a2f6",
+      "enabled": true,
+      "maxClaims": 0,
+      "expires": 0,
+      "rewards": [
+        {
+          "kind": "pfp-set",
+          "target": "9ef30eb2-d353-4110-8add-6a87a46ddd7f"
+        }
+      ]
+    }
+  ]
 }
