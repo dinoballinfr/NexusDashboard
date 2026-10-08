@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08T04:16:21.765Z",
+  "revision": "2026-10-08T04:19:25.451Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -399,5 +399,20 @@
       "redeemOnly": true
     }
   ],
-  "redeemCodes": []
+  "redeemCodes": [
+    {
+      "id": "4ff01a6f-9696-4edd-ba50-b48d9fff47b5",
+      "name": "Bday1 theme",
+      "hash": "c7a5337eeeb1880083a3367c5ce72a231fc36a10e811a12ff81f7bdd1f2c256f",
+      "enabled": true,
+      "maxClaims": 0,
+      "expires": 0,
+      "rewards": [
+        {
+          "kind": "theme",
+          "target": "2e095ed3-ebc1-4c05-8eaa-7a8bec00889e"
+        }
+      ]
+    }
+  ]
 }
