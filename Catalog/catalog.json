@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08T00:53:08.371Z",
+  "revision": "2026-10-08T04:16:21.765Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -67,24 +67,337 @@
           "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/refs/heads/main/images/360-wave.png"
         }
       ],
-      "redeemOnly": true
-    }
-  ],
-  "themes": [],
-  "redeemCodes": [
+      "redeemOnly": false
+    },
     {
-      "id": "660b6e42-71f2-4c89-b41b-109832dfcbcf",
-      "name": "XBOX 360 pfp set",
-      "hash": "838f461c2fa673cec73e6eecdafa88b127802d6cb0a61c53175197a122cb645a",
-      "enabled": true,
-      "maxClaims": 0,
-      "expires": 0,
-      "rewards": [
+      "id": "b3972629-e833-43d8-86c6-3c0af6fa83aa",
+      "name": "PSN",
+      "images": [
         {
-          "kind": "pfp-set",
-          "target": "fc080b52-b003-44cb-ab1a-5afcfeb54ca3"
+          "id": "70a2d632-cff8-4ef3-8b13-f796c8d2d26c",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/bproxy.png"
+        },
+        {
+          "id": "d6a0c9d8-5b8a-4c78-ab71-393fc87e117b",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy.png"
+        },
+        {
+          "id": "541ec8e3-77bd-4460-a2da-6a3e56bc730b",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(1).png"
+        },
+        {
+          "id": "c714d19d-64dc-4df9-879f-3d4b8c2bfae7",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(2).png"
+        },
+        {
+          "id": "dbef34bc-fe53-4d35-a4a3-a71bb9b0b843",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(3).png"
+        },
+        {
+          "id": "1d41a28f-2b6f-48ed-8fa4-69f800babc33",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(4).png"
+        },
+        {
+          "id": "def9b213-c95d-4987-a16a-d7fb47ad420d",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(5).png"
+        },
+        {
+          "id": "3411f9fb-9fee-47ed-9a8e-e0c544a414d6",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(6).png"
+        },
+        {
+          "id": "a8d94155-ab07-48ff-85c6-b7def5f0e1b3",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(7).png"
+        },
+        {
+          "id": "3c7f7dac-031c-42a4-8d4a-cd76ca95777e",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(8).png"
+        },
+        {
+          "id": "7117ce69-7374-45ab-b418-61d814723220",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(9).png"
+        },
+        {
+          "id": "ccb41080-d9e0-46f4-b234-c710fbde58a1",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(10).png"
+        },
+        {
+          "id": "01362450-7c62-4b11-ade5-631bdd58ca6e",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(11).png"
+        },
+        {
+          "id": "a88e0a90-e8a0-4a33-92eb-001fe4673620",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(12).png"
+        },
+        {
+          "id": "fa5f87cc-e266-41b0-adbb-fb2ef652133c",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(13).png"
+        },
+        {
+          "id": "298a0ff3-1973-4bc3-8d30-e27b89e616bb",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(14).png"
+        },
+        {
+          "id": "1ae579fc-3943-460f-a7c0-cd3702824134",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(15).png"
+        },
+        {
+          "id": "1b9c91ba-d3a3-4f3b-b076-f40ad199bf12",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(16).png"
+        },
+        {
+          "id": "1b5dfa55-531c-47a7-af4b-477eb6d34de1",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(17).png"
+        },
+        {
+          "id": "c4bfb814-d735-4507-bd04-5f6c4f2868bc",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(18).png"
+        },
+        {
+          "id": "ca062bcd-e23a-407b-81da-bfe5beaad8bd",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(19).png"
+        },
+        {
+          "id": "6709c215-dbd6-4c65-971e-4ef9c99c58e6",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(20).png"
+        },
+        {
+          "id": "ea372074-9a98-4ebd-8f17-7a6b3062ef68",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(21).png"
+        },
+        {
+          "id": "19de0857-a87d-410d-96a3-dee0207437ef",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(22).png"
+        },
+        {
+          "id": "95a04982-2319-4761-8d50-75a2af080855",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(23).png"
+        },
+        {
+          "id": "2e5249df-7c79-486b-9540-4388920b56eb",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(24).png"
+        },
+        {
+          "id": "eee3fa66-0081-41c9-87c7-c5971a97a5a3",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(25).png"
+        },
+        {
+          "id": "1252aa40-6db0-4a9d-8747-b5680080c88e",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(26).png"
+        },
+        {
+          "id": "09223975-8bf5-4ba9-8782-25380f9ab0f6",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(27).png"
+        },
+        {
+          "id": "34f47998-4075-4338-98c1-d833f58bad34",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(28).png"
+        },
+        {
+          "id": "a2b03e10-e90a-4501-92d9-cdea4e6cdca5",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(29).png"
+        },
+        {
+          "id": "8877a694-11a5-4983-8c0d-c848c35a7a02",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(30).png"
+        },
+        {
+          "id": "5bd1d399-15ee-43d1-938a-6a5c655d721a",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(31).png"
+        },
+        {
+          "id": "59a1caa1-4e2f-4d27-9963-0d3e7a9a4f8d",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(32).png"
+        },
+        {
+          "id": "049d89c9-2e65-489d-bd31-598328c21828",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(33).png"
+        },
+        {
+          "id": "b477b968-95ad-4da3-a945-b2ff820d0a70",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(34).png"
+        },
+        {
+          "id": "5b3a4314-245d-4d7d-b632-3eb36117d588",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(35).png"
+        },
+        {
+          "id": "512d873d-c1b3-4aa6-b675-a8410951d6fc",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(36).png"
+        },
+        {
+          "id": "b0506495-d63b-4346-9060-8d3a16d46bb7",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(37).png"
+        },
+        {
+          "id": "930c472e-af3a-44c3-adcb-dc601a90f3ca",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(38).png"
+        },
+        {
+          "id": "8b5170ba-a166-4676-bb08-8176d8dd75fc",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(39).png"
+        },
+        {
+          "id": "d1861a94-0472-43b7-9849-bd801c2d03c5",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(40).png"
+        },
+        {
+          "id": "5a93d8e6-37b7-4517-880a-eec9be31b9eb",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(41).png"
+        },
+        {
+          "id": "19cd66a4-e8c8-481f-bbdd-7a192f1595a1",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(42).png"
+        },
+        {
+          "id": "c57fe71b-3b11-4c97-b5ea-c5be49596eff",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(43).png"
+        },
+        {
+          "id": "693cd04e-af05-4b92-8a21-515151214028",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(44).png"
+        },
+        {
+          "id": "bea99b39-0ba3-405c-b202-30435b3f4492",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(45).png"
+        },
+        {
+          "id": "d728c0f9-c1ab-43df-b16a-7b0dd05173bc",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(46).png"
+        },
+        {
+          "id": "f44bb3c0-1bb3-4ef6-b488-c718011e73e2",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(47).png"
+        },
+        {
+          "id": "a0a90fb4-80b7-4ad4-ba17-09a8e5c26700",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(48).png"
+        },
+        {
+          "id": "d937ca64-ad7d-4d5d-8fc8-f49c5f3e7dd7",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(49).png"
+        },
+        {
+          "id": "14f8593e-ca98-4840-bc02-4ee7c484148f",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(50).png"
+        },
+        {
+          "id": "c7362bbf-118b-4f95-a96d-fefbc86535df",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(51).png"
+        },
+        {
+          "id": "6dae7dcc-b1fc-4109-8862-833c363b16cf",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(52).png"
+        },
+        {
+          "id": "cf302cfc-9186-4385-84fb-bf5a0a2fcd65",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(53).png"
+        },
+        {
+          "id": "6b10f2d5-0aa0-4ef9-b375-e7d9bd813fb9",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(54).png"
+        },
+        {
+          "id": "03c8265d-5ff5-478d-88b6-f924c2385bd1",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(55).png"
+        },
+        {
+          "id": "0d4eef1e-4886-49f0-93a7-f0399de47773",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(56).png"
+        },
+        {
+          "id": "d38c99c3-aad5-4a7b-9df0-b9d9fa85242a",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(57).png"
+        },
+        {
+          "id": "a1da771b-1b17-4e34-9bdb-a4d45c25ee69",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(58).png"
+        },
+        {
+          "id": "0cc5f026-fc85-4aa9-9248-0b7a5a1ee4db",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(59).png"
+        },
+        {
+          "id": "9f7c91c6-c3f9-46dd-b56e-a17f8ebf159f",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(60).png"
+        },
+        {
+          "id": "5d25f8f9-b7f0-47fa-ac21-251a82476679",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(61).png"
+        },
+        {
+          "id": "ba773101-0334-4907-969e-6fc27587afab",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(62).png"
+        },
+        {
+          "id": "f493c37d-7f7d-440a-86eb-25831e31c409",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(63).png"
+        },
+        {
+          "id": "c73b1a19-8a2a-4cab-b6a6-965fc6f242b6",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(64).png"
+        },
+        {
+          "id": "0ac72cb9-7a4c-4e8b-80f1-96589f602831",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(65).png"
+        },
+        {
+          "id": "a683c127-5a14-4b3f-a3ce-d5dfc8d8d980",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(66).png"
+        },
+        {
+          "id": "50a5ad6c-b28b-495e-8005-ea43244232ce",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(67).png"
+        },
+        {
+          "id": "92dd60db-d742-40c7-a0b8-102223418204",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(68).png"
+        },
+        {
+          "id": "32745207-d6bd-443f-b085-e8c39f6f199e",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(69).png"
+        },
+        {
+          "id": "6db5f9ce-4e7e-4fd4-8048-b3bc70407c9c",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(70).png"
+        },
+        {
+          "id": "58af038a-6e53-40ae-84f9-59d5e31a90be",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(71).png"
+        },
+        {
+          "id": "238d557f-b45c-4085-ae97-d5d75704d756",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(72).png"
+        },
+        {
+          "id": "46d1abfb-c13a-4103-bb4b-cc40a2a79346",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(73).png"
+        },
+        {
+          "id": "84b2f512-a71d-4a21-849a-aa46b9f2b549",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/proxy%20(74).png"
         }
       ]
     }
-  ]
+  ],
+  "themes": [
+    {
+      "id": "2e095ed3-ebc1-4c05-8eaa-7a8bec00889e",
+      "name": "Birthday 1",
+      "section": "Special Themes",
+      "backgroundUrl": "",
+      "backgroundColor": "#d345c0",
+      "panelColor": "#230b1b",
+      "buttonColor": "#2d1032",
+      "textColor": "#f24dfe",
+      "accentColor": "#eb52ff",
+      "auto": true,
+      "startMonth": 10,
+      "startDay": 7,
+      "endMonth": 10,
+      "endDay": 8,
+      "redeemOnly": true
+    }
+  ],
+  "redeemCodes": []
 }
