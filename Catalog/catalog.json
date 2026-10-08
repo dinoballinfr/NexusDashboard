@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08T00:49:01.560Z",
+  "revision": "2026-10-08T00:50:37.555Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -71,20 +71,5 @@
     }
   ],
   "themes": [],
-  "redeemCodes": [
-    {
-      "id": "9f6cdda9-e7a2-4b31-8e2d-0fead96a5c76",
-      "name": "XBOX 360 pfp set",
-      "hash": "838f461c2fa673cec73e6eecdafa88b127802d6cb0a61c53175197a122cb645a",
-      "enabled": false,
-      "maxClaims": 0,
-      "expires": 0,
-      "rewards": [
-        {
-          "kind": "pfp-set",
-          "target": "fc080b52-b003-44cb-ab1a-5afcfeb54ca3"
-        }
-      ]
-    }
-  ]
+  "redeemCodes": []
 }
