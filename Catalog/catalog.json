@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09T07:17:29.112Z",
+  "revision": "2026-10-09T07:37:53.524Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -386,6 +386,10 @@
         {
           "id": "84306c47-b93c-4069-87c0-3ca5300dd59f",
           "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/4684-jdm-car.png"
+        },
+        {
+          "id": "43facdc0-f955-4404-850c-3f2708e76658",
+          "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/Screenshot%202026-10-09%20001456.png"
         }
       ],
       "redeemOnly": true
