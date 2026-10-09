@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09T07:37:53.524Z",
+  "revision": "2026-10-09T07:38:32.821Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -431,7 +431,7 @@
       "rewards": [
         {
           "kind": "pfp-set",
-          "target": "7eff7699-598a-43f5-8523-b257db7ea764"
+          "target": "fc080b52-b003-44cb-ab1a-5afcfeb54ca3"
         }
       ]
     },
