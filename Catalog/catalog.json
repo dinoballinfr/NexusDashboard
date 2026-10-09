@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09T01:56:22.631Z",
+  "revision": "2026-10-09T02:16:01.701Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -397,7 +397,7 @@
       "name": "PS2",
       "section": "PS",
       "backgroundUrl": "",
-      "backgroundColor": "#060913",
+      "backgroundColor": "#060a18",
       "panelColor": "#101a2d",
       "buttonColor": "#0e1a2a",
       "textColor": "#b8d5ff",
@@ -407,37 +407,12 @@
       "startDay": 1,
       "endMonth": 1,
       "endDay": 1,
-      "particles": [
-        {
-          "kind": "rain",
-          "color": "#2e70b8",
-          "count": 30,
-          "speed": 1.5,
-          "size": 2.8,
-          "opacity": 0.5,
-          "sway": 0.13,
-          "avoidCenter": false
-        },
-        {
-          "kind": "leaves",
-          "color": "#1d5c9f",
-          "count": 80,
-          "speed": 0.95,
-          "size": 3.4,
-          "opacity": 0.35,
-          "direction": 90,
-          "spread": 0.84,
-          "avoidCenter": false,
-          "sway": 0.15,
-          "sizeVariance": 0.03,
-          "speedVariance": 0.11,
-          "spin": 0,
-          "rotation": 0,
-          "turbulence": 0.18
-        }
-      ],
+      "particles": [],
       "redeemOnly": true,
-      "banner": ""
+      "banner": "",
+      "videoUrl": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/1008.mp4",
+      "audioUrl": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/1008.MP3",
+      "backgroundOpacity": 0.88
     }
   ],
   "redeemCodes": [
@@ -469,5 +444,756 @@
         }
       ]
     }
-  ]
+  ],
+  "defaults": {
+    "themes": [
+      {
+        "id": "normal",
+        "name": "Nexus Original",
+        "section": "Original",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#05070D",
+        "panelColor": "#0B1322",
+        "buttonColor": "#0B1322",
+        "textColor": "#F0F4FF",
+        "accentColor": "#52A6FF",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "spring",
+        "name": "Spring Blossom",
+        "section": "Seasons",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#09191B",
+        "panelColor": "#132B2A",
+        "buttonColor": "#132B2A",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F1A8D0",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "summer",
+        "name": "Summer Sunset",
+        "section": "Seasons",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#071A26",
+        "panelColor": "#102B3B",
+        "buttonColor": "#102B3B",
+        "textColor": "#F0F4FF",
+        "accentColor": "#FFC66A",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn Leaves",
+        "section": "Seasons",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#1B100B",
+        "panelColor": "#332018",
+        "buttonColor": "#332018",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F4A24C",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "winter",
+        "name": "Winter Frost",
+        "section": "Seasons",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#071627",
+        "panelColor": "#102940",
+        "buttonColor": "#102940",
+        "textColor": "#F0F4FF",
+        "accentColor": "#A8DFFF",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "halloween",
+        "name": "Halloween Harvest",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#160C20",
+        "panelColor": "#28182F",
+        "buttonColor": "#28182F",
+        "textColor": "#F0F4FF",
+        "accentColor": "#FFA34D",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "thanksgiving",
+        "name": "Thanksgiving",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#1C1009",
+        "panelColor": "#332116",
+        "buttonColor": "#332116",
+        "textColor": "#F0F4FF",
+        "accentColor": "#EFC079",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "christmas",
+        "name": "Christmas",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#071B15",
+        "panelColor": "#123026",
+        "buttonColor": "#123026",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F2C66E",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "new-year",
+        "name": "New Year",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#0B1024",
+        "panelColor": "#191F38",
+        "buttonColor": "#191F38",
+        "textColor": "#F0F4FF",
+        "accentColor": "#EAD38C",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "valentine",
+        "name": "Valentine’s Day",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#220C1A",
+        "panelColor": "#39172A",
+        "buttonColor": "#39172A",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F79FBF",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "st-patrick",
+        "name": "St. Patrick’s Day",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#071D14",
+        "panelColor": "#113327",
+        "buttonColor": "#113327",
+        "textColor": "#F0F4FF",
+        "accentColor": "#83DEA2",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "easter",
+        "name": "Easter",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#171327",
+        "panelColor": "#29213B",
+        "buttonColor": "#29213B",
+        "textColor": "#F0F4FF",
+        "accentColor": "#D4B9F4",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "independence",
+        "name": "Independence Day",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#0A1429",
+        "panelColor": "#152640",
+        "buttonColor": "#152640",
+        "textColor": "#F0F4FF",
+        "accentColor": "#FAABB2",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "hanukkah",
+        "name": "Hanukkah",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#100D2D",
+        "panelColor": "#221A45",
+        "buttonColor": "#221A45",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F4D98B",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "diwali",
+        "name": "Diwali",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#201224",
+        "panelColor": "#38203A",
+        "buttonColor": "#38203A",
+        "textColor": "#F0F4FF",
+        "accentColor": "#F8BF61",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "ramadan",
+        "name": "Ramadan & Eid",
+        "section": "Holidays",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#0B1B26",
+        "panelColor": "#163343",
+        "buttonColor": "#163343",
+        "textColor": "#F0F4FF",
+        "accentColor": "#E9CD89",
+        "banner": "",
+        "scheduledOnly": false,
+        "particles": [],
+        "redeemOnly": false,
+        "auto": false,
+        "startMonth": 1,
+        "startDay": 1,
+        "endMonth": 1,
+        "endDay": 1
+      },
+      {
+        "id": "birthday-1",
+        "name": "Bday 1",
+        "section": "Special Themes",
+        "backgroundUrl": "",
+        "videoUrl": "",
+        "audioUrl": "",
+        "backgroundOpacity": 0.550000011920929,
+        "videoSpeed": 1,
+        "audioVolume": 0.3499999940395355,
+        "mediaLoop": true,
+        "background": {
+          "instanceID": 0
+        },
+        "backgroundColor": "#160B28",
+        "panelColor": "#291740",
+        "buttonColor": "#291740",
+        "textColor": "#FFF5DF",
+        "accentColor": "#FFCD70",
+        "banner": "YEAR 1!",
+        "scheduledOnly": true,
+        "particles": [
+          {
+            "kind": "confetti",
+            "color": "#FF74BB",
+            "imageUrl": "",
+            "direction": 90,
+            "spread": 1,
+            "sway": 0.15000000596046448,
+            "turbulence": 0.10000000149011612,
+            "rotation": 0,
+            "spin": 0,
+            "sizeVariance": 0.30000001192092896,
+            "speedVariance": 0.20000000298023224,
+            "avoidCenter": true,
+            "count": 28,
+            "speed": 0.6000000238418579,
+            "size": 1,
+            "opacity": 0.25
+          },
+          {
+            "kind": "balloons",
+            "color": "#FFCD70",
+            "imageUrl": "",
+            "direction": 90,
+            "spread": 1,
+            "sway": 0.15000000596046448,
+            "turbulence": 0.10000000149011612,
+            "rotation": 0,
+            "spin": 0,
+            "sizeVariance": 0.30000001192092896,
+            "speedVariance": 0.20000000298023224,
+            "avoidCenter": true,
+            "count": 8,
+            "speed": 0.3499999940395355,
+            "size": 1.7999999523162842,
+            "opacity": 0.25
+          }
+        ],
+        "redeemOnly": false,
+        "auto": true,
+        "startMonth": 10,
+        "startDay": 7,
+        "endMonth": 10,
+        "endDay": 7
+      }
+    ],
+    "avatarCategories": [
+      {
+        "id": "builtin-avatars",
+        "name": "Default Nexus avatars",
+        "images": [
+          {
+            "id": "avatar/0",
+            "url": "",
+            "name": "Icon-avatar-0"
+          },
+          {
+            "id": "avatar/1",
+            "url": "",
+            "name": "Icon-avatar-1"
+          },
+          {
+            "id": "avatar/2",
+            "url": "",
+            "name": "Icon-avatar-2"
+          },
+          {
+            "id": "avatar/3",
+            "url": "",
+            "name": "Icon-avatar-3"
+          },
+          {
+            "id": "avatar/4",
+            "url": "",
+            "name": "Icon-avatar-4"
+          },
+          {
+            "id": "avatar/5",
+            "url": "",
+            "name": "Icon-avatar-5"
+          },
+          {
+            "id": "avatar/6",
+            "url": "",
+            "name": "Icon-avatar-6"
+          },
+          {
+            "id": "avatar/7",
+            "url": "",
+            "name": "Icon-avatar-7"
+          },
+          {
+            "id": "avatar/8",
+            "url": "",
+            "name": "Icon-avatar-8"
+          },
+          {
+            "id": "avatar/9",
+            "url": "",
+            "name": "Icon-avatar-9"
+          },
+          {
+            "id": "avatar/10",
+            "url": "",
+            "name": "Icon-avatar-10"
+          },
+          {
+            "id": "avatar/11",
+            "url": "",
+            "name": "Icon-avatar-11"
+          },
+          {
+            "id": "avatar/12",
+            "url": "",
+            "name": "Icon-avatar-12"
+          },
+          {
+            "id": "avatar/13",
+            "url": "",
+            "name": "Icon-avatar-13"
+          },
+          {
+            "id": "avatar/14",
+            "url": "",
+            "name": "Icon-avatar-14"
+          },
+          {
+            "id": "avatar/15",
+            "url": "",
+            "name": "Icon-avatar-15"
+          }
+        ]
+      },
+      {
+        "id": "3d718981581348af82d73f5ed67863bd",
+        "name": "Blue",
+        "images": [
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:d9cdeba8ad92445abbfb50ee4254a088",
+            "url": "",
+            "name": "Icon-avatar-0"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:ef19655bb9a44a2ea4bbeded1674eb91",
+            "url": "",
+            "name": "Icon-avatar-1"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:ffc373bd42fb4059a1bdf5e0f500c2b6",
+            "url": "",
+            "name": "Icon-avatar-2"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:b0481e0942c7451199adcd0778547b4a",
+            "url": "",
+            "name": "Icon-avatar-3"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:f21b4be3a70743d08f0fef7633557ab9",
+            "url": "",
+            "name": "Icon-avatar-4"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:f346146ed80c4c3cbee01fab347a4ff0",
+            "url": "",
+            "name": "Icon-avatar-5"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:ffc4e08651c24cbaa28afd6b13d232e7",
+            "url": "",
+            "name": "Icon-avatar-6"
+          },
+          {
+            "id": "local:3d718981581348af82d73f5ed67863bd:69c7d3c1afa345ccb8dad4c9ba050d8d",
+            "url": "",
+            "name": "Icon-avatar-7"
+          }
+        ]
+      },
+      {
+        "id": "8208f70536ba4aba8086df7413c7fd18",
+        "name": "Green",
+        "images": [
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:3b4d821631384b36a8ded2cbcf0a45b5",
+            "url": "",
+            "name": "Icon-avatar-8"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:f42d5f01c0854613b5c4bd7b599092bd",
+            "url": "",
+            "name": "Icon-avatar-9"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:709409f9be8c4e409e82b4e00dc4c26e",
+            "url": "",
+            "name": "Icon-avatar-10"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:d565dacdd45147e7945f8d683d421004",
+            "url": "",
+            "name": "Icon-avatar-11"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:fbf07e1fd9cb4eebaf8076f61822d133",
+            "url": "",
+            "name": "Icon-avatar-12"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:3df04c5bc9cb42d48fc36b12324521bd",
+            "url": "",
+            "name": "Icon-avatar-13"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:d64dd4f0646047bc9ff67e772412fe97",
+            "url": "",
+            "name": "Icon-avatar-14"
+          },
+          {
+            "id": "local:8208f70536ba4aba8086df7413c7fd18:3898c7b18ebe42a9ac89404683b92c73",
+            "url": "",
+            "name": "Icon-avatar-15"
+          }
+        ]
+      },
+      {
+        "id": "baf8d2889354407f81c6abb6e3c98dce",
+        "name": "XBOX 360",
+        "images": []
+      }
+    ],
+    "games": [
+      {
+        "id": "installed-game-0",
+        "title": "Orbit Drift",
+        "genre": "Shooter",
+        "price": "$19.99",
+        "description": "Explore the edge of an electric galaxy. A fictional sci-fi adventure made for this marketplace preview.",
+        "coverUrl": "",
+        "featured": true,
+        "deal": false
+      },
+      {
+        "id": "installed-game-1",
+        "title": "Neon Apex",
+        "genre": "Racing",
+        "price": "$9.99",
+        "description": "Race beneath neon skies and chase your next personal best. A fictional arcade racing sample.",
+        "coverUrl": "",
+        "featured": true,
+        "deal": true
+      },
+      {
+        "id": "installed-game-2",
+        "title": "Wild Frontier",
+        "genre": "Adventure",
+        "price": "Free",
+        "description": "Find your path through a quiet, untamed world. A fictional exploration game for the sample collection.",
+        "coverUrl": "",
+        "featured": false,
+        "deal": false
+      }
+    ]
+  }
 }
