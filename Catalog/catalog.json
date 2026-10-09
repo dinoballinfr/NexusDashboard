@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09T04:54:27.707Z",
+  "revision": "2026-10-09T07:17:29.112Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -412,7 +412,7 @@
       "banner": "",
       "videoUrl": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/1008.mp4",
       "audioUrl": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/1008.MP3",
-      "backgroundOpacity": 0.88,
+      "backgroundOpacity": 1,
       "scheduledOnly": false
     }
   ],
