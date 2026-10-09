@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09T07:41:25.138Z",
+  "revision": "2026-10-09T07:43:47.061Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -424,7 +424,7 @@
     {
       "id": "0a25b897-2865-4a22-b72e-4971b5c937ec",
       "name": "Owners Cars A pfp set",
-      "hash": "e17f19d712fa7134fced6843605e50bb2487e389a6fe6a255f4406fb56c14954",
+      "hash": "0be4462527545f373d876a5602d470f0f057c68ca60d52c3c5b3ef9c7c784f3c",
       "enabled": true,
       "maxClaims": 0,
       "expires": 0,
