@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08T05:39:07.187Z",
+  "revision": "2026-10-09T01:56:22.631Z",
   "games": [
     {
       "id": "3a80370e-3920-4152-8a57-4b650da6f6d6",
@@ -380,30 +380,92 @@
       ]
     },
     {
-      "id": "9ef30eb2-d353-4110-8add-6a87a46ddd7f",
-      "name": "Cars",
+      "id": "7eff7699-598a-43f5-8523-b257db7ea764",
+      "name": "Owner Cars",
       "images": [
         {
-          "id": "3999d23c-c54f-4afd-a420-2d53c8434ec0",
+          "id": "84306c47-b93c-4069-87c0-3ca5300dd59f",
           "url": "https://raw.githubusercontent.com/dinoballinfr/NexusDashboard/main/images/4684-jdm-car.png"
         }
       ],
       "redeemOnly": true
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "id": "c21e8ff2-80c0-4e7f-826c-95c12f496a16",
+      "name": "PS2",
+      "section": "PS",
+      "backgroundUrl": "",
+      "backgroundColor": "#060913",
+      "panelColor": "#101a2d",
+      "buttonColor": "#0e1a2a",
+      "textColor": "#b8d5ff",
+      "accentColor": "#1d5c9f",
+      "auto": false,
+      "startMonth": 1,
+      "startDay": 1,
+      "endMonth": 1,
+      "endDay": 1,
+      "particles": [
+        {
+          "kind": "rain",
+          "color": "#2e70b8",
+          "count": 30,
+          "speed": 1.5,
+          "size": 2.8,
+          "opacity": 0.5,
+          "sway": 0.13,
+          "avoidCenter": false
+        },
+        {
+          "kind": "leaves",
+          "color": "#1d5c9f",
+          "count": 80,
+          "speed": 0.95,
+          "size": 3.4,
+          "opacity": 0.35,
+          "direction": 90,
+          "spread": 0.84,
+          "avoidCenter": false,
+          "sway": 0.15,
+          "sizeVariance": 0.03,
+          "speedVariance": 0.11,
+          "spin": 0,
+          "rotation": 0,
+          "turbulence": 0.18
+        }
+      ],
+      "redeemOnly": true,
+      "banner": ""
+    }
+  ],
   "redeemCodes": [
     {
       "id": "0a25b897-2865-4a22-b72e-4971b5c937ec",
-      "name": "Cars pfp set",
-      "hash": "654cdb25ca062b73e5cadade28504eafc559f2b126178732e8a844b307a3a2f6",
+      "name": "Owners pfp set",
+      "hash": "5e8645fde9252babbd827cba580b5dc2e0846432b4dc71e1658b8ada3fec1e62",
       "enabled": true,
       "maxClaims": 0,
       "expires": 0,
       "rewards": [
         {
           "kind": "pfp-set",
-          "target": "9ef30eb2-d353-4110-8add-6a87a46ddd7f"
+          "target": "7eff7699-598a-43f5-8523-b257db7ea764"
+        }
+      ]
+    },
+    {
+      "id": "acf0eca3-ea06-453f-8fdd-0460d8ec2e87",
+      "name": "PS2 theme",
+      "hash": "61099b7f8648f4a859d7b02f02b8868810d57399f778eb6c9f763c4f99704dc6",
+      "enabled": true,
+      "maxClaims": 0,
+      "expires": 0,
+      "rewards": [
+        {
+          "kind": "theme",
+          "target": "c21e8ff2-80c0-4e7f-826c-95c12f496a16"
         }
       ]
     }
